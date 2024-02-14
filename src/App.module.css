@@ -1,0 +1,7 @@
+.wrap{
+    max-width: 1280px;
+    margin: 0 auto;
+    
+    min-height: 100%;
+    padding: 25px;
+}

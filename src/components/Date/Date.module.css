@@ -1,0 +1,55 @@
+.date{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.date__header{
+    
+}
+
+
+.date__box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 450px;
+    padding: 25px;
+    box-shadow: -3px 4px 36px 4px rgba(17, 39, 56, 0.2);
+    border-radius: 10px;
+    background: white;
+    margin: 30px;
+}
+
+.date__btn {
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 12px;
+    cursor: pointer;
+    background: rgb(85 85 85);
+    color: white;
+}
+
+.date__btn:hover{
+    background: rgb(50, 50, 50);
+}
+
+
+
+.date__box_item{
+    font-size: 16px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    width: 370px;
+    justify-content: space-between;
+    color: rgb(85 85 85);;
+}
+
+.modal__input{
+    padding: 7px;
+    border-radius: 10px;
+    margin: 20px 0;
+}

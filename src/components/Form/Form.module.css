@@ -1,0 +1,33 @@
+.form__box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 450px;
+  padding: 25px;
+  box-shadow: -3px 4px 36px 4px rgba(17, 39, 56, 0.2);
+  border-radius: 10px;
+  background: white;
+  margin: 30px;
+}
+
+.form__input {
+  padding: 5px;
+  border-radius: 7px;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.form__btn {
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  cursor: pointer;
+  background: rgb(85 85 85);
+  color: white;
+  width: 100%;
+}
+
+.form__btn:hover {
+  background: rgb(50, 50, 50);
+}

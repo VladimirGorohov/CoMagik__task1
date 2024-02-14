@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;  
+  margin: 0;
+  padding: 0;  
+  font-family: sans-serif;
+  }
+
+
+li, a{
+ text-decoration: none;
+ list-style: none;
+ text-transform: uppercase;
+ color: white;
+}
+
+.active {
+  color: black;
+}
